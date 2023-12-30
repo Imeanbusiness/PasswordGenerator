@@ -19,7 +19,7 @@ function generate() {
     var Surname = document.getElementById("Surname");
     var number;
     number = Math.floor(Math.random() * 9999);
-    var chance = Math.floor(Math.random() * 15);
+    var chance = Math.floor(Math.random() * 30);
     if (chance == 0) {
         var password = Name.value+Sport.value+Birth.value;
     } else if (chance == 1) {
