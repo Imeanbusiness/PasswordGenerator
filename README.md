@@ -4,7 +4,7 @@ A random password generator for literally no reason
 
 # Instructions to download:
 
-1: Click [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FImeanbusiness%2FPasswordGenerator%2Ftree%2Fmain%2Fcode) to download files
+1: Click [here](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FImeanbusiness%2FPasswordGenerator%2Ftree%2Fmain%2FPGCode) to download files
 
 2: Download and unzip the file
 
