@@ -1,6 +1,9 @@
 ## PasswordGenerator
 A random password generator for literally no reason
-Version: 1.0.0
+
+Version: 1.0.1:
+
+Patched a small error
 
 
 # Instructions to download:
