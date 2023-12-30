@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Teko);
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Teko';
+    background-color: rgb(50,50,50);
+    color: white;
+}
+.heading {
+    width: 100%;
+    position: absolute;
+    padding: 0px;
+    margin:0;
+
+    text-align: center;
+    
+}
+.generateButton {
+    background-color: black;
+    color: #FFFFFF;
+    padding: 10px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    width: 150px;
+    height: 50px;
+}
+.hlink {
+    text-decoration: none;
+    color: white;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.fields {
+    padding-left: 10em;
+    padding-right: 10em;
+    text-align: center;
+}
